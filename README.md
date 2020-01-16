@@ -1,4 +1,7 @@
+# Note: This is the demo project for HU2020 assignment.
+
 ## Getting Started
+
 
 First, install Postgres server
 
